@@ -1,0 +1,23 @@
+.GRBoss {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.appLogo {
+  margin: 0px;
+}
+
+#screenName {
+  margin-top: 1px;
+  margin-bottom: 1px;
+  font-size: 10px;
+}
+
+.mainWindow {
+  margin-bottom: 100vh;
+}
+
+.divAll {
+  background-image: url("../../assets/BackStatic3.png");
+  background-size: 100vw 100vh;
+}
